@@ -2,17 +2,17 @@
 Detecting and flagging AI generated text, images and audio
 
 ## Team
-Kshitij Koushik Kota - https://github.com/kshitijkota
-Pranav Hemanth - https://github.com/Pranavh-2004
-Pranav Rajesh Narayan - https://github.com/pranav-rn
-Roshini Ramesh - https://github.com/roshr22
-Sampriti Saha - https://github.com/sampritisaha (Honorary member)
+Kshitij Koushik Kota - https://github.com/kshitijkota <br/>
+Pranav Hemanth - https://github.com/Pranavh-2004 <br/>
+Pranav Rajesh Narayan - https://github.com/pranav-rn <br/>
+Roshini Ramesh - https://github.com/roshr22 <br/>
+Sampriti Saha - https://github.com/sampritisaha (Honorary member) <br/>
 
 ## Introduction
-Track: AI-Media Detection and Flagging
-Topic: Marking AI Generated Images
+Track: AI-Media Detection and Flagging <br/>
+Topic: Marking AI Generated Images <br/>
 
-In the present-day world of AI-generated media, one of the major problems lies in digital forgery ,deepfakes, copyright and plagiarism, the need for a trusted, immutable source of verifying whether the image is AI generated or not becomes essential.
+In the present-day world of AI-generated media, one of the major problems lies in digital forgery ,deepfakes, copyright and plagiarism, the need for a trusted, immutable source of verifying whether the image is AI generated or not becomes essential. <br/>
 
 ## Problem Statement
 AI-generated images have become a significant source of misinformation, posing challenges for authenticity verification. Current watermarking methods are inadequate, lacking the ability to effectively mark AI-generated images from their inception. This deficiency allows for the dissemination of altered or misleading content, undermining trust in digital media.
@@ -30,8 +30,8 @@ Watermarks must be imperceptible to the human eye yet robust against tampering.
 Compatibility with various image formats and resolutions.
 Easy verification process accessible to any internet user.
 Scalable and adaptable to future advancements in AI and image processing technologies.
-Beneficiaries:
 
+## Beneficiaries
 Content creators and artists who want to protect their original work from unauthorized use.
 Media organizations and journalists seeking to verify the authenticity of images used in news reporting.
 Social media platforms and online communities aiming to curb the spread of misinformation.
