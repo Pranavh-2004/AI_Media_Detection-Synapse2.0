@@ -2,11 +2,11 @@
 Detecting and flagging AI generated text, images and audio
 
 ## Team
-Kshitij Koushik Kota - https://github.com/kshitijkota <br/>
-Pranav Hemanth - https://github.com/Pranavh-2004 <br/>
-Pranav Rajesh Narayan - https://github.com/pranav-rn <br/>
-Roshini Ramesh - https://github.com/roshr22 <br/>
-Sampriti Saha - https://github.com/sampritisaha (Honorary member) <br/>
+Kshitij Koushik Kota - [https://github.com/kshitijkota](https://github.com/kshitijkota) <br/>
+Pranav Hemanth - [https://github.com/Pranavh-2004](https://github.com/Pranavh-2004) <br/>
+Pranav Rajesh Narayan - [https://github.com/pranav-rn](https://github.com/pranav-rn) <br/>
+Roshini Ramesh - [https://github.com/roshr22](https://github.com/roshr22) <br/>
+Sampriti Saha - [https://github.com/sampritisaha](https://github.com/Sampriti2803) (Honorary member) <br/>
 
 ## Introduction
 Track: AI-Media Detection and Flagging <br/>
