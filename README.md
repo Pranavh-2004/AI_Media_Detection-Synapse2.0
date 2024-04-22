@@ -77,19 +77,19 @@ To address the challenge of verifying the authenticity of AI-generated images, w
    - Embed the phash into the identified coordinates using bit manipulation techniques (e.g., LSB embedding).
 
 4. **Verification Process:**
-   - Any individual can extract the embedded phash from the image using the same coordinates and bit manipulation techniques.
-   - Compute the phash of the image independently using the SHA256 hashing algorithm.
-   - If the extracted phash and the independently computed phash match, the image is deemed unaltered.
+   - Any individual can extract the embedded phash from the image using the same coordinates and bit manipulation techniques. <br/>
+   - Compute the phash of the image independently using the SHA256 hashing algorithm. <br/>
+   - If the extracted phash and the independently computed phash match, the image is deemed unaltered. <br/>
 
 **Benefits:**
-- Provides a robust method for verifying the authenticity of AI-generated images.
-- Ensures that the watermark is imperceptible and resistant to tampering.
-- Enables independent verification by any individual without requiring specialized tools or knowledge.
+- Provides a robust method for verifying the authenticity of AI-generated images. <br/>
+- Ensures that the watermark is imperceptible and resistant to tampering. <br/>
+- Enables independent verification by any individual without requiring specialized tools or knowledge. <br/>
 
 **Outcome:**
 By implementing this solution, we can enhance trust and transparency in digital media by enabling individuals to verify the authenticity of images, thereby combating misinformation and ensuring the integrity of visual content.
 
 ## References and Similar research
-https://about.fb.com/news/2024/02/labeling-ai-generated-images-on-facebook-instagram-and-threads/ (Recommended further reading on Meta's Solution - Stable Singnatures)
-https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/
-https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials
+https://about.fb.com/news/2024/02/labeling-ai-generated-images-on-facebook-instagram-and-threads/ (Recommended further reading on Meta's Solution - Stable Singnatures) <br/>
+https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/ <br/>
+https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials <br/>
